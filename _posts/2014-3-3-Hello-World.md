@@ -1,9 +1,10 @@
 ---
 layout: post
 title: You're up and running!
+published: true
 ---
 
-Next you can update your site, avatar and other options using the _config.yml file in the root of your repository (shown below).
+**Next** you can update your site, _avatar_ and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
